@@ -26,6 +26,7 @@ Some quick links to commonly used resources:
 - [Sattag deployment metadata](https://duke.box.com/s/nd0ypwzvpnp7kp0o1ipqdp8fuunkmm4k). Some basic information on all deployed sattags.
 - [Sattag CEE](https://duke.box.com/s/7rv41oxnm3t01lnilh3jr8dr15p7c599) dive plots for each experiment (all tags that were actively collecting dive data). 
 - [Sattag gonio gps match](https://duke.box.com/s/puxd3shhmaz6hffywynv5n6xxgf2s4hu).  Some processed goniometer positional 'ancillary' data.
+- [zc fin sheets](https://duke.app.box.com/folder/163690965793)
 
 ### Documentation
 
